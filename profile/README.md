@@ -2,6 +2,10 @@
 
 Welcome to our about page!
 
+All discussions take place in the Discussions area.
+
+NB: We will make a project board when we start the main project.
+
 
 <div align="center">
   
