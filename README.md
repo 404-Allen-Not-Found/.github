@@ -1,2 +1,2 @@
-# 404-Allen-Not-Found
-Our about page
+# .github
+Our config repository for the organization.
